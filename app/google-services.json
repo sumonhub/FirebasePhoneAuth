@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "496269555722",
+    "project_id": "utils-project",
+    "storage_bucket": "utils-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496269555722:android:149c370c9ccf2b323e87f3",
+        "android_client_info": {
+          "package_name": "app.sumon.firebasephoneauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496269555722-h62lso7r3cr7g7hpd5pdf1b9edomvg35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF6y_UoScqBSO40rvj39gLJOYjDcRPsis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496269555722-h62lso7r3cr7g7hpd5pdf1b9edomvg35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
